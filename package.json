@@ -1,0 +1,10 @@
+{
+  "name": "HobbesBot",
+  "version": "1.0.0",
+  "description": "Discord MusicBot",
+  "main": "bot.js",
+  "author": "Kelvin Zhang",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
